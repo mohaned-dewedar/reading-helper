@@ -1,3 +1,6 @@
+This is made to help a student in learning how ones goes about creating a any project they are interested in.
+
+
 # Reading Helper 📚
 
 A learning project that helps readers by automatically detecting difficult words and showing definitions on hover.
